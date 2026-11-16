@@ -9,6 +9,10 @@ Extensión del workflow del Módulo 3 con tres herramientas conectadas por crede
 - `checkpoint4_sergio_ayala.json`: workflow exportado de n8n. Se importa sin errores y no contiene secretos (solo nombres e ids de credenciales).
 - `credentials.png`: captura de n8n > Credentials con las 3 conexiones activas.
 
+## Captura de Credentials
+
+![n8n Credentials: Gmail, HubSpot y Slack conectadas](credentials.png)
+
 ## Qué hace
 
 La rama nueva arranca con un Gmail Trigger y queda separada de la cadena del Módulo 3, que no se tocó (esa cadena depende del Chat Trigger).
